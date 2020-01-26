@@ -1,0 +1,82 @@
+table {
+	position: absolute;
+	margin-right: 20%;
+	z-index: -1;
+	height: 10px;
+	width: 10px; 
+	
+}
+
+img{
+height: 30px;
+	width: 30px;
+}
+
+
+button {
+	position: relative;
+	font-size: 1em;
+	background-color: white;
+	color: black;
+	border: none;
+	border-radius: 20px;
+	width: 90px;
+	height: 80px;
+	z-index: 10;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-right: 20px; 
+}
+#change {padding-bottom: 20px;
+		margin-right: 20px; }
+
+body{font-size: 1em;
+	position: relative;
+	color: white;
+	background-color: black;
+}
+
+#moves{
+	font-size: 2.5em;
+}
+
+#star1{
+	font-size: 3em;
+	color: aqua;
+	padding-left: .5em;
+	padding-right: .5em;
+}
+
+#star2{
+	font-size: 3em;
+	color: aqua;
+	padding-right: .5em;
+}
+
+#star3{
+	font-size: 3em;
+	color: aqua
+}
+
+span{
+	font-size: 2.5em;
+	padding-left: .5em;
+}
+
+#orange {
+	color: orange;
+}
+
+#green {
+	color: lawngreen;
+}
+
+#pink {
+	color: pink;
+}
+
+#startOver{
+	height: 120px;
+width: 120px;
+}
+
